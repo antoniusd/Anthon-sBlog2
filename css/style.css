@@ -70,7 +70,7 @@ a.navbar-brand {
 .home {
 	position: relative;
 	height: 60rem;
-	background-image: url('/img/code-g3a5209be7_1280.jpg');
+	background-image: url('img/code-g3a5209be7_1280.jpg');
 	background-size: cover;
 	background-position: center;
 	z-index: 0;
